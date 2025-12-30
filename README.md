@@ -50,6 +50,10 @@ BuzzyBee was developed as part of a hands-on engineering project focused on well
 
 Completed prototype and demonstrated at a club showcase.
 
+## Note
+
+Current device and BOM do not include RTC Module and 2 of the switches shown in circuit diagram 
+
 ## 🤝 Contributors
 
 - **Sachi Mehta** – Project lead, electronics design, prototyping, and testing, programming 
