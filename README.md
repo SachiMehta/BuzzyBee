@@ -52,7 +52,7 @@ Completed prototype and demonstrated at a club showcase.
 ## 🤝 Contributors
 
 - **Sachi Mehta** – Project lead, electronics design, prototyping, and testing, programming 
-- **Cedric Yang** - Concept Developer, CADD design 
+- **Cedric Yang** - Concept Developer, CAD design 
 - **Saul  Juarez** - Programming 
 
 
