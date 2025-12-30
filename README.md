@@ -44,7 +44,7 @@ BuzzyBee was developed as part of a hands-on engineering project focused on well
 - Improved smoothness and aesthetics of light effects through brightness and color fading  
 - Enhanced enclosure design to house electronics more securely  
 - Custom PCB design to improve the stability and reliability of the electronics
-- Create ambient lighting that changes based on the time of day   
+- Create ambient lighting that changes based on the time of day using an RTC clock module
   
 ## 📌 Status
 
